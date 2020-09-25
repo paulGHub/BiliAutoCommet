@@ -1,2 +1,2 @@
 # BiliAutoCommet
-used to auto comment fangdaoshaonv tuan
+used to auto comment
